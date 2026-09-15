@@ -253,7 +253,7 @@ The trigger will prevent unauthorized access from being recorded as authorized.
 
 **Team G1**
 
-- Phạm An
+- Phạm Văn An
 - Lâm Minh Chiến
 - Đỗ Vương Bảo Anh
 
